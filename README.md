@@ -21,7 +21,9 @@ My journey from Java development to AL programming,
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile (https://github.com/brtlmn)]
+You can view my personalized GitHub profile (https://github.com/brtlmn)] 
+![My Image](https://raw.githubusercontent.com/yourusername/repositoryname/main/4A46B44A-C1BB-4B00-9560-74FDF46C4586-removebg-preview.png)
+
 
 📧 How to Reach Me:
 Feel free to connect with me here on GitHub or via email at 24075187@siswa.um.edu.my
