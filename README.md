@@ -22,7 +22,9 @@ My journey from Java development to AL programming,
 ## GitHub Profile
 
 You can view my personalized GitHub profile (https://github.com/brtlmn)] 
-![My Image](https://raw.githubusercontent.com/brtlmn/icebreaking-brtlmn/main/4A46B44A-C1BB-4B00-9560-74FDF46C4586-removebg-preview.png)
+
+https://raw.githubusercontent.com/Framework-Based-Software/icebreaking-brtlmn/profile-upload-Hanis-Syafiqa/4A46B44A-C1BB-4B00-9560-74FDF46C4586-removebg-preview.png
+
 
 
 📧 How to Reach Me:
